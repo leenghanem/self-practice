@@ -1,0 +1,28 @@
+header{
+    background-image: url(../images/Logopit_1616263549826.jpg);
+    background-size: 30cm 18cm;
+    background-position: center;
+    min-height: 100vh;
+}
+@font-face{
+    src: url(../fonts/Cairo-Regular.ttf);
+    font-family: ar-font;
+}
+body{
+    font-family: ar-font;
+}
+div.Maincard{
+    background:rgb(204, 0, 204,0.5);
+    color: #ffffff;
+    padding: 5% 10%;
+    transform: translateY(20%);
+}
+div.Maincard img{
+    height: 6.6cm;
+    width: 6cm;
+    border: 5px solid #f1bfe1;
+   margin-bottom: 20px; 
+}
+p{
+    color: black;
+}
